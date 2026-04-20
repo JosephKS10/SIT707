@@ -20,13 +20,13 @@ public class MainTest {
 	
 	@Test
 	public void testStudentIdentity() {
-		String studentId = null;
+		String studentId = "s225053039";
 		Assert.assertNotNull("Student ID is null", studentId);
 	}
 
 	@Test
 	public void testStudentName() {
-		String studentName = null;
+		String studentName = "Joseph Kalayathankal Saji";
 		Assert.assertNotNull("Student name is null", studentName);
 	}
 	
